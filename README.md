@@ -1,5 +1,5 @@
 ### Hey!! I'm Sara Relvas ⚽
-📚 I’m currently on the 4th year of Integrated Master in Computer Science degree at Nova School of Science and Technology in Portugal
+📚 I’m currently on the 5th year of Integrated Master in Computer Science and Engineering degree at Nova School of Science and Technology in Portugal
 
  <div>
   <a href="https://github.com/srelvas">
